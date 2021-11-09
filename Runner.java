@@ -15,6 +15,9 @@ public class Runner {
 		michael.bonjour();
 		michael.iAm();
 		jim.bonjour();
+		
+		BankAccount one = new BankAccount(2, "Current", "Mark", "Zuck", 25.05F);
 	}
-
+	
+		
 }
